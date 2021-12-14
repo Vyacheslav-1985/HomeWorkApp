@@ -1,7 +1,7 @@
 /**
  * Java 1. Homework 2
  * @Author Maksimov Vyacheslav
- * @version 15.12.2021
+ * @version 14.12.2021
  *
  */
 class HomeWorkApp2 {
@@ -23,7 +23,7 @@ class HomeWorkApp2 {
         System.out.println("positive");
     }   else {
         System.out.println("negative");
-    }
+        }
     }
 
     static boolean ChisloNegative(int a) {
@@ -33,9 +33,6 @@ class HomeWorkApp2 {
 	static void StrokaChislo(String s, int Cycle) {
         for (int i = 0; i < Cycle; i++) {
         System.out.println(s);
-    }
+        }
     }   
-
-
-
 } 
