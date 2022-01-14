@@ -1,5 +1,5 @@
 /**
- * Java 1. Homework 4
+ * Java 1. Homework 8
  * @Author Maksimov Vyacheslav
  * @version 14.01.2022
  *
